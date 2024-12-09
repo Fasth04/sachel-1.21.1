@@ -22,7 +22,7 @@
 			"net.fasth.sachel.SachelDataGenerator"
 		],
 		"client": [
-			"net.fasth.SachelClient"
+			"net.fasth.sachel.SachelClient"
 		]
 	},
 	"mixins": [
