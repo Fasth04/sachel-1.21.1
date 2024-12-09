@@ -1,3 +1,5 @@
 {
-  "item.satchel.satchel": "Satchel"
+  "item.satchel.satchel": "Satchel",
+
+  "itemgroup.satchel.satchel_items": "Satchel"
 }
