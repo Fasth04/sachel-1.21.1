@@ -1,8 +1,8 @@
-package net.fasth.sachel;
+package net.fasth.satchel;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class SachelClient implements ClientModInitializer {
+public class SatchelClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 

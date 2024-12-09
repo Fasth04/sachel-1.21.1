@@ -1,4 +1,4 @@
-package net.fasth.sachel.mixin;
+package net.fasth.satchel.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

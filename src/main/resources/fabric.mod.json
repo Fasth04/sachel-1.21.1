@@ -2,31 +2,31 @@
 	"schemaVersion": 1,
 	"id": "sachel",
 	"version": "${version}",
-	"name": "Sachel",
-	"description": "Sachel Mod by Fasth",
+	"name": "Satchel",
+	"description": "Satchel Mod by Fasth",
 	"authors": [
 		"Fasth04"
 	],
 	"contact": {
 		"homepage": "https://github.com/Fasth04/",
-		"sources": "https://github.com/Fasth04/sachel-1.21.1"
+		"sources": "https://github.com/Fasth04/satchel-1.21.1"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sachel/icon.png",
+	"icon": "assets/satchel/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.fasth.sachel.Sachel"
+			"net.fasth.satchel.Satchel"
 		],
 		"fabric-datagen": [
-			"net.fasth.sachel.SachelDataGenerator"
+			"net.fasth.satchel.SatchelDataGenerator"
 		],
 		"client": [
-			"net.fasth.sachel.SachelClient"
+			"net.fasth.satchel.SatchelClient"
 		]
 	},
 	"mixins": [
-		"sachel.mixins.json"
+		"satchel.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",

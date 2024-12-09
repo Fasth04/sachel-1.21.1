@@ -1,13 +1,13 @@
-package net.fasth.sachel;
+package net.fasth.satchel;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.fasth.sachel.item.ModItems;
+import net.fasth.satchel.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Sachel implements ModInitializer {
-	public static final String MOD_ID = "sachel";
+public class Satchel implements ModInitializer {
+	public static final String MOD_ID = "satchel";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
